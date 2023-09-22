@@ -1,0 +1,1 @@
+# Immagini-Satellitari-e-Riduzione-dimensionalita
