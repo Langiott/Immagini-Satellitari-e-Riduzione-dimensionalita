@@ -1,4 +1,4 @@
-# Immagini-Satellitari-e-Riduzione-dimensinalita
+# Analisi immagini satellitari e modelli predittivi
 
 Analisi di times series da immagini Sentinel-2 nell’ambito della LandSurface Phenology mediante maching learning
 
