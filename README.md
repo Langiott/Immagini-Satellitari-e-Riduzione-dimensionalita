@@ -1,7 +1,6 @@
 # Immagini-Satellitari-e-Riduzione-dimensinalita
-# Analisi di times series da immagini Sentinel-2 nell’ambito della LandSurface Phenology mediante maching learning
 
-
+Analisi di times series da immagini Sentinel-2 nell’ambito della LandSurface Phenology mediante maching learning
 
 ## Concetti Introduttivi
 ![Mappatura vegetazione sovrapposta ad una mappa topografica](/ma.png)
